@@ -4,6 +4,4 @@ Mi primer repositorio
 
 I love 🍦 🏑 😴
 
-Cambio local
-
-Rama Prueba 
+Cambios para usar pull request
